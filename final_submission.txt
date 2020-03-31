@@ -1,0 +1,38 @@
+1. Theme -FinTech
+
+2. Project Name- CHIT
+
+3. Short Project Description: _One line crisp description of your project_
+
+4. Team Name: CSociety
+
+5. Team Members: 1) Gurkeerat Singh (Github handle - @keerat666), 
+                              2) Sanjeev Siva (Github handle - @ sanjeevsiva17),
+                              3) Aadhar Bhatt (Github handle - @keerat666)
+
+6. Demo Link: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
+
+7. Repository Link(s):  https://github.com/sanjeevsiva17/friendly-garbanzo
+
+8. **Presentation Link:** Provide us the link to for your powerpoint presentation. 
+
+11. **Azure Services Used-** Kindly mention the Azure Services used in your project. 
+
+
+
+## 🔥 Your Pitch
+_Kindly write a pitch for your project. Please do not use more than 500 words_
+
+
+
+## 🔦 Any other specific thing you want to highlight?
+_(Optional)_
+
+
+## ✅ Checklist
+
+
+**Before you post the issue**:
+- [ ] You have followed the issue title format.
+- [ ] You have mentioned the correct labels.
+- [ ] You have provided all the information correctly.
